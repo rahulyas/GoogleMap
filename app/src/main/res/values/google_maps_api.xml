@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--
+  TODO: Before you run your application, you need a Google Maps API key.
+  To get one, follow this link, follow the directions and press "Create" at the end:
+  https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D5:F9:E2:39:2A:43:E7:46:5C:94:2F:D5:55:B6:92:ED:B5:C6:3A:E6%3Bcom.example.geofencing
+  You can also add your credentials to an existing key, using these values:
+  Package name:
+  com.example.googlemap
+  SHA-1 certificate fingerprint:
+  73:41:AE:04:CE:8D:CB:1F:FE:01:C8:14:82:D0:79:78:45:0C:88:CE
+  ////////////////////////////////////////////
+  MD5: 18:FD:B5:06:98:33:42:31:1B:DF:EA:EB:C1:9F:1E:B3
+  SHA1: 73:41:AE:04:CE:8D:CB:1F:FE:01:C8:14:82:D0:79:78:45:0C:88:CE
+  SHA-256: 96:EA:E5:1F:03:44:41:EF:7B:E4:39:BF:C7:85:42:C8:2A:59:B0:92:50:C9:91:EC:2D:45:74:24:63:0A:04:01
+  //////////////////////////////////////////////
+  Alternatively, follow the directions here:
+  https://developers.google.com/maps/documentation/android/start#get-key
+  Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+  string in this file.
+
+  AIzaSyD-zTJFynmybc2Zw-GhffW_0ekQpbjG85M
+  -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD-zTJFynmybc2Zw-GhffW_0ekQpbjG85M</string>
+</resources>
